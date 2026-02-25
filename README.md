@@ -73,7 +73,7 @@ Have a question or want to connect?
 
 - Website: [https://spencercain.com](https://spencercain.com)
 - LinkedIn: [Spencer Cain](https://linkedin.com/in/spencer-cain/)
-- GitHub: [@hexalmint](https://github.com/hexalmint)
+- GitHub: [@srmlcn](https://github.com/srmlcn)
 - Email: [cainspencerm@protonmail.com](mailto:cainspencerm@protonmail.com)
 
 _Thanks for stopping by!_
